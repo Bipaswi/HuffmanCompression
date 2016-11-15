@@ -1,0 +1,10 @@
+ReadMe!
+
+can use ant to make the java file
+
+to run program:
+java -cp build Huffman
+
+ant junit will run junit tests
+ant clean will remove all
+

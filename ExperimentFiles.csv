@@ -1,0 +1,10 @@
+CSVFiles/6btxt.csv,TestFiles/Text/6b.txt,CompressedFiles/6bCompressed.txt,DecodedFiles/6bDecoded.txt
+CSVFiles/500btxt.csv,TestFiles/Text/500b.txt,CompressedFiles/500bCompressed.txt,DecodedFiles/500bDecoded.txt
+CSVFiles/1.4kbtxt.csv,TestFiles/Text/1.4kb.txt,CompressedFiles/1.4bCompressed.txt,DecodedFiles/1.4kbDecoded.txt
+CSVFiles/38kbtxt.csv,TestFiles/Text/38kb.txt,CompressedFiles/38kbCompressed.txt,DecodedFiles/38kbDecoded.txt
+CSVFiles/300kbtxt.csv,TestFiles/Text/300kb.txt,CompressedFiles/300kbCompressed.txt,DecodedFiles/300kbDecoded.txt
+CSVFiles/500kbtxt.csv,TestFiles/Text/500kb.txt,CompressedFiles/500kbCompressed.txt,DecodedFiles/500kbDecoded.txt
+CSVFiles/1mbtxt.csv,TestFiles/Text/1mb.txt,CompressedFiles/1mbCompressed.txt,DecodedFiles/1mbDecoded.txt
+CSVFiles/2.5mb.csv,TestFiles/Text/2.5mb.txt,CompressedFiles/2.5mbCompressed.txt,DecodedFiles/2.5mbDecoded.txt
+CSVFiles/5mb.csv,TestFiles/Text/5mb.txt,CompressedFiles/5mbCompressed.txt,DecodedFiles/5mbDecoded.txt
+CSVFiles/6.5mb.csv,TestFiles/Text/6.5mb.txt,CompressedFiles/6.5mbCompressed.txt,DecodedFiles/6.5mbDecoded.txt
